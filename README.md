@@ -6,3 +6,5 @@
   <a href="https://github.com/24hwww/?tab=repositories" target="_blank">here</a> and follow my <a href="https://facebook.com/24hwww"> fan page</a> for updates on my work.
 </p>
 
+<p align="center">Sou Programador PHP, Especialista em Wordpress/Woocommerce / Desenvolvo plugins e temas (templates) customizados do zero.
+  <a href="https://github.com/24hwww/?tab=repositories" target="_blank">aqui</a> e siga meu <a href="https://facebook.com/24hwww"> fan page</a> para atualizações sobre meu trabalho.</p>
